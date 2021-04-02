@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/female_scream2.ogg-f8d613b986fac7d238a568fe0c468ecf.oggstr"
+
+[deps]
+
+source_file="res://audio/female_scream2.ogg"
+dest_files=[ "res://.import/female_scream2.ogg-f8d613b986fac7d238a568fe0c468ecf.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

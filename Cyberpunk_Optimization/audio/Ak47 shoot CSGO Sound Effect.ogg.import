@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Ak47 shoot CSGO Sound Effect.ogg-0e900a115a55a81a5f509ff59ee72f9d.oggstr"
+
+[deps]
+
+source_file="res://audio/Ak47 shoot CSGO Sound Effect.ogg"
+dest_files=[ "res://.import/Ak47 shoot CSGO Sound Effect.ogg-0e900a115a55a81a5f509ff59ee72f9d.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

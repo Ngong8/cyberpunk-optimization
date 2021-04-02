@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/male_scream1.ogg-1e5412274325f312c61e8e2c6efa97c0.oggstr"
+
+[deps]
+
+source_file="res://audio/male_scream1.ogg"
+dest_files=[ "res://.import/male_scream1.ogg-1e5412274325f312c61e8e2c6efa97c0.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

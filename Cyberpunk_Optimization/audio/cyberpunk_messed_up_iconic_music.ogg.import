@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/cyberpunk_messed_up_iconic_music.ogg-141c247bf239dd49e057c4d8490566a5.oggstr"
+
+[deps]
+
+source_file="res://audio/cyberpunk_messed_up_iconic_music.ogg"
+dest_files=[ "res://.import/cyberpunk_messed_up_iconic_music.ogg-141c247bf239dd49e057c4d8490566a5.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
